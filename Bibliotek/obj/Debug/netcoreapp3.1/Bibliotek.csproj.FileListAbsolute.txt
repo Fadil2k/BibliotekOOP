@@ -1,0 +1,12 @@
+/Users/fk/Projects/Bibliotek/Bibliotek/bin/Debug/netcoreapp3.1/Bibliotek.deps.json
+/Users/fk/Projects/Bibliotek/Bibliotek/bin/Debug/netcoreapp3.1/Bibliotek.runtimeconfig.json
+/Users/fk/Projects/Bibliotek/Bibliotek/bin/Debug/netcoreapp3.1/Bibliotek.runtimeconfig.dev.json
+/Users/fk/Projects/Bibliotek/Bibliotek/bin/Debug/netcoreapp3.1/Bibliotek.dll
+/Users/fk/Projects/Bibliotek/Bibliotek/bin/Debug/netcoreapp3.1/Bibliotek.pdb
+/Users/fk/Projects/Bibliotek/Bibliotek/obj/Debug/netcoreapp3.1/Bibliotek.csprojAssemblyReference.cache
+/Users/fk/Projects/Bibliotek/Bibliotek/obj/Debug/netcoreapp3.1/Bibliotek.csproj.CoreCompileInputs.cache
+/Users/fk/Projects/Bibliotek/Bibliotek/obj/Debug/netcoreapp3.1/Bibliotek.AssemblyInfoInputs.cache
+/Users/fk/Projects/Bibliotek/Bibliotek/obj/Debug/netcoreapp3.1/Bibliotek.AssemblyInfo.cs
+/Users/fk/Projects/Bibliotek/Bibliotek/obj/Debug/netcoreapp3.1/Bibliotek.dll
+/Users/fk/Projects/Bibliotek/Bibliotek/obj/Debug/netcoreapp3.1/Bibliotek.pdb
+/Users/fk/Projects/Bibliotek/Bibliotek/obj/Debug/netcoreapp3.1/Bibliotek.genruntimeconfig.cache
